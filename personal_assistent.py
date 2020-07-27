@@ -8,8 +8,8 @@ from boltiot import Bolt
 import pyautogui
 
 
-api_key="74ab842a-17c5-43f6-91c7-779eec82b1f2"
-device_id="BOLT3848381"
+api_key="XXXXXXXXXXXXXXXXX"
+device_id="xxxxxxxxx"
 mybolt= Bolt(api_key,device_id)
 
 
